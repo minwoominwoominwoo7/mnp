@@ -31,7 +31,7 @@ mnp깃을 다운받아 src 폴더에 있는 파일들을 @ubuntu:~/catkin_ws/src
 ```bash
 ubuntu:~$ git clone https://github.com/minwoominwoominwoo7/mnp.git
 ubuntu:~$ cp -r ~/mnp/src/* ~/catkin_ws/src/
-$ catkin_ws && catkin_make
+ubuntu:~$ catkin_ws && catkin_make
 ```
 
 # 실행 명령어   
